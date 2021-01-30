@@ -7,7 +7,7 @@
 
 ## ToDo
 
-Reference Docuement: https://docs.appdynamics.com/display/PRO45/Instrument+an+Android+Application+Manually
+Reference Document: https://docs.appdynamics.com/display/PRO45/Instrument+an+Android+Application+Manually
 
 * obtain EUM App Key on AppDynamics Controller
 * instrument Android SDK with generated EUM App Key
